@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'DIN';
+  font-weight: 400;
+  src: url('../fonts/din.woff') format('worff'), url('../fonts/din.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'DIN';
+  font-weight: 500;
+  src: url('../fonts/din_bold.woff') format('worff'),
+    url('../fonts/din_bold.ttf') format('truetype');
+}
